@@ -31,3 +31,4 @@ Molecular Species_NEUTRAL - тип молекулы
 Molecular Species_ZWITTERION - тип молекулы - Цвиттер-ион
 
 Источники: база данных ChEMBL, SIDER, OFFSIDES
+https://tatonettilab.org/offsides/
