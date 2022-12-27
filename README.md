@@ -1,4 +1,4 @@
-# Spbython2022
+# SPBYTHON2022
 HERG Activity, Experimental and Clinical
 Цель проекта: оценить предсказательную силу стандартного теста на HERG токсичность
 
